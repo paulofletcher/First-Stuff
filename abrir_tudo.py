@@ -2,7 +2,7 @@ import pyautogui as pi
 import time
 import pygetwindow as gw
 
-
+# abre o navegador, o gmail, o globo.com e em seguida o software do whatsapp
 
 pi.press("win")
 pi.write("edge")
